@@ -1,0 +1,61 @@
+Student Name,Department,Date,Rating,Feedback,Sentiment
+Student_1,EEE,05/02/2024,4,Amazing event with great energy!,Positive
+Student_2,EEE,10/02/2024,5,Super engaging and fun experience.,Positive
+Student_3,IT,27/02/2024,4,Well-organized and insightful.,Neutral
+Student_4,EEE,26/02/2024,4,Super engaging and fun experience.,Positive
+Student_5,CSE,28/02/2024,2,I didn’t enjoy the sessions.,Positive
+Student_6,ECE,06/02/2024,1,Technical issues spoiled the experience.,Neutral
+Student_7,Mechanical,09/02/2024,4,Amazing event with great energy!,Positive
+Student_8,Civil,10/02/2024,1,Technical issues spoiled the experience.,Neutral
+Student_9,CSE,28/02/2024,5,Amazing event with great energy!,Positive
+Student_10,IT,04/02/2024,5,Everything was on point and useful.,Positive
+Student_11,EEE,02/02/2024,5,Learned a lot from all sessions.,Neutral
+Student_12,ECE,18/02/2024,3,"It was fine, not much to say.",Positive
+Student_13,Civil,11/02/2024,3,Okay-ish experience overall.,Neutral
+Student_14,Mechanical,12/02/2024,4,Everything was on point and useful.,Positive
+Student_15,EEE,12/02/2024,3,"It was fine, not much to say.",Positive
+Student_16,Mechanical,02/02/2024,5,Amazing event with great energy!,Positive
+Student_17,ECE,28/02/2024,4,Super engaging and fun experience.,Positive
+Student_18,Mechanical,03/02/2024,1,Too disorganized to follow properly.,Negative
+Student_19,IT,29/02/2024,1,Boring and dragged too long.,Negative
+Student_20,Civil,19/02/2024,5,Learned a lot from all sessions.,Neutral
+Student_21,CSE,23/02/2024,2,"Not bad, not great either.",Positive
+Student_22,Civil,07/02/2024,1,Boring and dragged too long.,Negative
+Student_23,Mechanical,28/02/2024,2,Okay-ish experience overall.,Neutral
+Student_24,CSE,14/02/2024,4,Everything was on point and useful.,Positive
+Student_25,ECE,08/02/2024,2,Mixed opinions about the sessions.,Neutral
+Student_26,CSE,27/02/2024,1,Boring and dragged too long.,Negative
+Student_27,Mechanical,21/02/2024,2,"It was fine, not much to say.",Positive
+Student_28,ECE,23/02/2024,2,"It was fine, not much to say.",Positive
+Student_29,EEE,07/02/2024,4,Well-organized and insightful.,Neutral
+Student_30,Mechanical,01/03/2024,4,Learned a lot from all sessions.,Neutral
+Student_31,ECE,26/02/2024,4,Super engaging and fun experience.,Positive
+Student_32,ECE,10/02/2024,1,Too disorganized to follow properly.,Negative
+Student_33,Civil,08/02/2024,1,Too disorganized to follow properly.,Negative
+Student_34,Civil,15/02/2024,2,Could have been better organized.,Positive
+Student_35,EEE,09/02/2024,4,Learned a lot from all sessions.,Neutral
+Student_36,Mechanical,21/02/2024,5,Well-organized and insightful.,Neutral
+Student_37,IT,17/02/2024,5,Super engaging and fun experience.,Positive
+Student_38,Civil,07/02/2024,5,Everything was on point and useful.,Positive
+Student_39,CSE,13/02/2024,4,Everything was on point and useful.,Positive
+Student_40,ECE,20/02/2024,5,Everything was on point and useful.,Positive
+Student_41,CSE,06/02/2024,5,Amazing event with great energy!,Positive
+Student_42,EEE,26/02/2024,2,Boring and dragged too long.,Negative
+Student_43,Mechanical,25/02/2024,5,Learned a lot from all sessions.,Neutral
+Student_44,ECE,10/02/2024,4,Everything was on point and useful.,Positive
+Student_45,Civil,07/02/2024,2,Technical issues spoiled the experience.,Neutral
+Student_46,Mechanical,27/02/2024,4,Super engaging and fun experience.,Positive
+Student_47,Civil,21/02/2024,5,Super engaging and fun experience.,Positive
+Student_48,IT,01/03/2024,4,Everything was on point and useful.,Positive
+Student_49,CSE,26/02/2024,1,Boring and dragged too long.,Negative
+Student_50,ECE,03/02/2024,5,Super engaging and fun experience.,Positive
+Student_51,ECE,25/02/2024,2,"Not bad, not great either.",Positive
+Student_52,EEE,26/02/2024,5,Learned a lot from all sessions.,Neutral
+Student_53,EEE,19/02/2024,3,"It was fine, not much to say.",Positive
+Student_54,IT,17/02/2024,3,Could have been better organized.,Positive
+Student_55,ECE,26/02/2024,3,Okay-ish experience overall.,Neutral
+Student_56,Mechanical,02/03/2024,3,"Not bad, not great either.",Positive
+Student_57,CSE,17/02/2024,5,Amazing event with great energy!,Positive
+Student_58,EEE,13/02/2024,5,Well-organized and insightful.,Neutral
+Student_59,ECE,22/02/2024,5,Everything was on point and useful.,Positive
+Student_60,ECE,18/02/2024,4,Everything was on point and useful.,Positive
